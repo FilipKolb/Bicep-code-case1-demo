@@ -1,2 +1,2 @@
-# Bicep-code-en-Jorik-Goris-moet-zijn-mond-houden
+# Bicep-code-en-Jorik-Goris-is-smal
 Case study IaC
