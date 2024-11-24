@@ -150,7 +150,7 @@ resource vm 'Microsoft.Compute/virtualMachines@2022-08-01' = {
         packages:
           - nginx
         runcmd:
-          - echo "UwU" > /var/www/html/index.html
+          - echo "Hello from Bicep" > /var/www/html/index.html
           - systemctl enable nginx
           - systemctl start nginx
       ''')
