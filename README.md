@@ -1,2 +1,2 @@
-# Bicep-code-en-Jorik-Goris-is-smal
+# Bicep-code
 Case study IaC
